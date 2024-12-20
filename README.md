@@ -9,11 +9,11 @@ A finite state machine (FSM) implementation to compute the modulo-three value of
 - Can run manually via run.js
 
 ## Installation : Make sure to run 'npm install' to install the node modules
--npm install
+- npm install
 
 
-##run tests
--npm test
+## Run Tests
+- npm test
 
-##To run manually enter content in run.js and run command  
--npm run app
+## To run manually enter content in run.js and run command  
+- npm run app
