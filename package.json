@@ -1,0 +1,16 @@
+{
+  "name": "mod-three-fsm",
+  "version": "1.0.0",
+  "description": "FSM implementation for Mod-Three calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "app": "node ./src/run.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
