@@ -8,7 +8,7 @@ A finite state machine (FSM) implementation to compute the modulo-three value of
 - Includes unit tests using Jest.
 - Can run manually via run.js
 
-## Installation : Make sure to run 'npm install' to install the node modules
+## Installation : Make sure to run 'npm install' to install the node modules and have node installed
 - npm install
 
 
